@@ -1,0 +1,1 @@
+this was the practice that i did for revolut interview, though i didn't clear it, this was the fundamental idea and schema of their question, other things like dataset and stuff won't be available as they don't all allow 
